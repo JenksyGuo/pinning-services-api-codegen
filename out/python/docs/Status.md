@@ -1,0 +1,13 @@
+# Status
+
+Status a pin object can have at a pinning service
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**value** | **str** | Status a pin object can have at a pinning service |  must be one of ["queued", "pinning", "pinned", "failed", ]
+**any string name** | **bool, date, datetime, dict, float, int, list, str, none_type** | any string name can be used but the value must be the correct type | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
